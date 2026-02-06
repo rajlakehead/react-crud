@@ -1,7 +1,12 @@
 import UsersPage from "./pages/UserPage";
+import Layout from "./components/Layout";
 
 function App() {
-  return <UsersPage />;
+  return (
+    <Layout>
+      <UsersPage />
+    </Layout>
+  );
 }
 
 export default App;

@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Raj",
+      "lastName": "Patel",
+      "phone": "1234567890",
+      "email": "raj@example.com"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "phone": "9827383838",
+      "email": "alice@aj.com",
+      "id": "2"
+    }
+  ]
+}
